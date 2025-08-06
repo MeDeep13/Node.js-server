@@ -6,4 +6,6 @@ npm install -g nodemon
 
 modules- http(to create server) and fs( to read files)
 
+Use switch for routing
+
 
